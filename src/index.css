@@ -1,0 +1,64 @@
+.navbar {
+  padding: 10px 20px;
+}
+
+.nav-link:hover {
+  color: #fff !important;
+}
+
+.navbar-brand img {
+  margin: 10px;
+}
+
+body {
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+.card-style {
+  min-width: 600px !important;
+  width: 90%;
+  min-height: 230px;
+  padding: 10px;
+  margin: 0 auto;
+  box-shadow: 0 2rem 3rem rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  border: none;
+  font-weight: 300;
+}
+.card-title {
+  text-align: center;
+  letter-spacing: 1px;
+  opacity: 0.8;
+}
+
+.json {
+  white-space: break-spaces;
+}
+.home-image {
+  display: flex;
+  margin: 20px auto;
+  width: 45% !important;
+  height: auto;
+}
+
+.home-p {
+  display: flex;
+  flex-direction: column;
+  margin: 20px auto;
+  text-align: center;
+  letter-spacing: 2px;
+  font-weight: 400;
+}
+
+.ammount-input {
+  margin-bottom: 10px;
+}
+
+.table {
+  display: flex;
+  flex-direction: column;
+  margin: 20px auto !important;
+  width: 90% !important;
+}
